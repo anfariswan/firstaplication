@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Firstaplication">
         <activity
+            android:name=".delta6"
+            android:exported="true" />
+        <activity
+            android:name=".delta5"
+            android:exported="true" />
+        <activity
+            android:name=".delta4"
+            android:exported="true" />
+        <activity
+            android:name=".delta3"
+            android:exported="true" />
+        <activity
+            android:name=".delta2"
+            android:exported="true" />
+        <activity
+            android:name=".delta1"
+            android:exported="true" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>

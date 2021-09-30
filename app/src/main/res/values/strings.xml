@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">firstaplication</string>
+    <string name="pindah_ke_delta1">pindah ke delta1</string>
+    <string name="pindah_ke_delta2">pindah ke delta2</string>
+    <string name="pindah_ke_delta3">pindah ke delta3</string>
+    <string name="pindah_ke_delta4">pindah ke delta4</string>
+    <string name="pindah_ke_delta6">pindah ke delta6</string>
+    <string name="pindah_ke_delta5">pindah ke delta5</string>
 </resources>
